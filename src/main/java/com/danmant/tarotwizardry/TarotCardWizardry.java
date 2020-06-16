@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.danmant.tarotwizardry;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
@@ -7,7 +7,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = com.example.examplemod.TarotCardWizardry.MODID, name = com.example.examplemod.TarotCardWizardry.NAME, version = com.example.examplemod.TarotCardWizardry.VERSION)
+@Mod(modid = TarotCardWizardry.MODID, name = com.danmant.tarotwizardry.TarotCardWizardry.NAME, version = com.danmant.tarotwizardry.TarotCardWizardry.VERSION)
 public class TarotCardWizardry
 {
     public static final String MODID = "tarotwizardry";
