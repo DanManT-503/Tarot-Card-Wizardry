@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "tarotwizardry",
+  "name": "Tarot Card Wizardry",
+  "description": "A magic mod with tarot cards.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["DanManT_503 and Icehawk"],
+  "credits": "The Forge and FML guys, Icehawk, and the guys at Mojang",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
