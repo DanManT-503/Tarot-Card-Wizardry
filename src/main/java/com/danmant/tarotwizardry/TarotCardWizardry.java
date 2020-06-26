@@ -7,7 +7,8 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = TarotCardWizardry.MODID, name = com.danmant.tarotwizardry.TarotCardWizardry.NAME, version = com.danmant.tarotwizardry.TarotCardWizardry.VERSION)
+@Mod(modid = TarotCardWizardry.MODID, name = com.danmant.tarotwizardry.TarotCardWizardry.NAME, version = com.danmant.tarotwizardry.TarotCardWizardry.VERSION,
+        dependencies="required-after:ebwizardry")
 public class TarotCardWizardry
 {
     public static final String MODID = "tarotwizardry";
